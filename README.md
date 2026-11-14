@@ -27,7 +27,28 @@ Learning Outcomes
 
 - Connecting Java with MariaDB.
 - Executing SQL queries using JDBC.
-- Performing CRUD operations.
+- Performing CRUD operations.Program 
+
+Output
+
+1. Database Connection
+
+Database Connected Successfully!
+
+2. Student Records
+
++----+----------+-----+------------------+
+| id | name     | age | course           |
++----+----------+-----+------------------+
+| 1  | Manohar  | 20  | Computer Science |
++----+----------+-----+------------------+
+
+3. CRUD Operations
+
+- INSERT: Student record added.
+- SELECT: Student records displayed.
+- UPDATE: Student details modified.
+- DELETE: Student record deleted.
 
 Developer
 
